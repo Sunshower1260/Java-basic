@@ -1,0 +1,5 @@
+Common\Library.class
+Main.class
+model\TextModel.class
+controller\TextController.class
+view\Menu.class
